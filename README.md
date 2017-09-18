@@ -1,2 +1,2 @@
 # librg-node
-Node.js bindings for librg.
+Expernimental node.js bindings for librg.
