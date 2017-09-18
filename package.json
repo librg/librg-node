@@ -1,0 +1,23 @@
+{
+  "name": "librg-node",
+  "version": "1.0.0",
+  "description": "A NodeJS binding for librg library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "librg",
+    "networking",
+    "gamedev",
+    "library"
+  ],
+  "author": "GAMELASTER",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "librg.c": "^2.2.3"
+  },
+  "devDependencies": {
+    "node-cmake": "^2.3.2"
+  }
+}
